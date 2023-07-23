@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jayson Romero</h1>
 <h3 align="center"> A passionate Web developer from Philippines</h3>
-</br>
+
+<img align="right" alt="Coder GIF" height=350 width=450 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+
+
 
 - 🔭 I’m currently working on **Accenture**
 
