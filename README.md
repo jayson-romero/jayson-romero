@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, There </h1>
-<h3 align="center">I'm Jayson Romero, A passionate Web developer from Philippines</h3>
+<h1 align="center">Hi 👋, I'm Jayson Romero</h1>
+<h3 align="center"> A passionate Web developer from Philippines</h3>
 </br>
 
 - 🔭 I’m currently working on **Accenture**
