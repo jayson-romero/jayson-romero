@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **romerojayson1218@gmail.com**
 
-- ⚡ Fun fact **I love Basketball and Jogging**
+- ⚡ Fun fact **I love Basketball, Jogging and Hip-hop music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
